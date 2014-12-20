@@ -88,3 +88,14 @@ body {
 .clearfix:after {
   clear: both;
 }
+
+.img-circle{
+    border-radius: 50%
+}
+
+.headshot {
+  width: 250px ;
+  height: 250px ;
+  margin: 10px ;
+  float: left ;
+}
